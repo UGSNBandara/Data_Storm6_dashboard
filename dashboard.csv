@@ -1,0 +1,915 @@
+agent_code,combined_category,target_column
+de9a845f,Low Motivation & Policy Growth,1
+1450745b,Low Motivation & Policy Decline,1
+5c4dd08c,Motivated & Policy Growth,1
+3c7a8b50,Motivated & Policy Growth,1
+3dd0c2a1,Low Motivation & Policy Decline,1
+c698da4c,Low Motivation & Policy Decline,1
+89a8cb39,Motivated & Policy Growth,1
+1de378ca,Motivated & Policy Growth,1
+c158de38,Motivated & Policy Growth,1
+fe7e49da,Low Motivation & Policy Decline,1
+44c6464f,Motivated & Policy Growth,1
+f6747d56,Motivated & Policy Growth,1
+ff955d18,Low Motivation & Policy Growth,1
+56df72a9,Motivated & Policy Growth,1
+7827b6dc,Motivated & Policy Growth,1
+4ec46520,Motivated & Policy Growth,1
+2022f5a4,Motivated & Policy Growth,1
+0a75b64a,Motivated & Policy Growth,1
+c58bfa6e,Motivated & Policy Growth,1
+f3d2946a,Motivated & Policy Decline,1
+34ffbdb5,Motivated & Policy Growth,1
+3eaca3a0,Motivated & Policy Growth,1
+e4c90b16,Motivated & Policy Growth,1
+3d94a6e8,Low Motivation & Policy Growth,1
+b4d52fea,Low Motivation & Policy Decline,1
+ed1ab276,Low Motivation & Policy Decline,1
+904e6c62,Low Motivation & Policy Decline,1
+b40d8f4e,Low Motivation & Policy Decline,1
+4ca77240,Motivated & Policy Growth,1
+9e6b324e,Motivated & Policy Decline,1
+3df612f0,Low Motivation & Policy Decline,1
+7cca0fc1,Low Motivation & Policy Decline,1
+833d1afb,Low Motivation & Policy Decline,1
+b18f0678,Motivated & Policy Growth,1
+bf8243b7,Motivated & Policy Growth,1
+1d8f94c7,Motivated & Policy Growth,1
+cacadff9,Low Motivation & Policy Decline,1
+8f887bfa,Low Motivation & Policy Decline,1
+edfd2d27,Motivated & Policy Growth,1
+5287392d,Low Motivation & Policy Decline,1
+096ab135,Low Motivation & Policy Decline,1
+8c4fd446,Low Motivation & Policy Decline,1
+3ec02013,Low Motivation & Policy Growth,1
+7d65dcb3,Motivated & Policy Decline,1
+4a0b5fa3,Low Motivation & Policy Decline,1
+fd85f614,Low Motivation & Policy Decline,1
+7.28E+05,Motivated & Policy Growth,1
+c724fffa,Motivated & Policy Growth,1
+d79899e1,Motivated & Policy Growth,1
+9494149d,Motivated & Policy Growth,1
+2b4416f2,Low Motivation & Policy Decline,1
+55e876fa,Low Motivation & Policy Growth,1
+88c2ff7a,Low Motivation & Policy Decline,1
+c557ab5f,Motivated & Policy Growth,1
+1b6476ac,Motivated & Policy Growth,1
+e930f449,Motivated & Policy Growth,1
+471fdac3,Motivated & Policy Decline,1
+944d7abd,Motivated & Policy Growth,1
+084c02de,Low Motivation & Policy Growth,1
+8f0e0595,Low Motivation & Policy Decline,1
+9fe0462c,Motivated & Policy Growth,1
+df6c6fee,Low Motivation & Policy Decline,1
+963a1048,Motivated & Policy Growth,1
+64dbef0d,Motivated & Policy Decline,1
+b1dc3ef9,Low Motivation & Policy Decline,1
+5d8cf04d,Low Motivation & Policy Decline,1
+6951b407,Low Motivation & Policy Growth,1
+1235ad70,Motivated & Policy Decline,1
+458aa9db,Motivated & Policy Growth,1
+f236ae90,Motivated & Policy Growth,1
+44e1a8af,Low Motivation & Policy Decline,1
+7bd02f08,Low Motivation & Policy Decline,1
+e37f0d57,Low Motivation & Policy Growth,1
+7f45d13e,Low Motivation & Policy Decline,1
+145cbf5b,Motivated & Policy Growth,1
+4c33101d,Low Motivation & Policy Decline,1
+42df1e2f,Low Motivation & Policy Decline,1
+47c3bcc3,Low Motivation & Policy Decline,1
+7dc61c41,Low Motivation & Policy Decline,1
+bbbcdb24,Low Motivation & Policy Growth,1
+f72d36a1,Motivated & Policy Decline,1
+86c4b14c,Motivated & Policy Growth,1
+bdf1f1ff,Motivated & Policy Growth,1
+ced0898f,Motivated & Policy Growth,1
+d94be574,Low Motivation & Policy Growth,1
+7f8d4215,Motivated & Policy Growth,1
+71c650c2,Low Motivation & Policy Decline,1
+11b6f9e5,Low Motivation & Policy Decline,1
+bc9e6c5d,Motivated & Policy Growth,1
+430152bb,Motivated & Policy Growth,1
+ea128aeb,Low Motivation & Policy Decline,1
+5b3a18f8,Motivated & Policy Growth,1
+cdbf502d,Low Motivation & Policy Growth,1
+8f4643ab,Motivated & Policy Decline,1
+d59044e1,Motivated & Policy Growth,1
+35dd02c7,Low Motivation & Policy Decline,1
+d9d6b210,Motivated & Policy Growth,1
+6f0bb1b5,Low Motivation & Policy Growth,1
+f572dd78,Low Motivation & Policy Decline,1
+6698f96f,Motivated & Policy Decline,1
+73fc3821,Low Motivation & Policy Decline,1
+47e9a908,Motivated & Policy Growth,1
+b7599490,Motivated & Policy Growth,1
+4aa2a587,Motivated & Policy Growth,1
+6d680538,Low Motivation & Policy Decline,1
+f20adb4a,Motivated & Policy Growth,1
+cb64180e,Motivated & Policy Growth,1
+a02f250c,Low Motivation & Policy Decline,1
+e0a2ad11,Low Motivation & Policy Decline,1
+0439a5fc,Low Motivation & Policy Growth,1
+bcb430e3,Motivated & Policy Growth,1
+461a76aa,Motivated & Policy Growth,1
+57838cf4,Low Motivation & Policy Decline,1
+7abe34d0,Low Motivation & Policy Decline,1
+647b43a4,Motivated & Policy Growth,1
+6643513a,Low Motivation & Policy Decline,1
+9d27a440,Low Motivation & Policy Decline,1
+65ca2c59,Motivated & Policy Growth,1
+264728f9,Low Motivation & Policy Decline,1
+5e628af1,Motivated & Policy Growth,1
+c30cd7d8,Motivated & Policy Growth,1
+d6d1f534,Motivated & Policy Growth,1
+0599fb2d,Motivated & Policy Growth,1
+64850856,Low Motivation & Policy Decline,1
+ac15ff9e,Motivated & Policy Decline,1
+7d9166e2,Low Motivation & Policy Decline,1
+789ec6d8,Motivated & Policy Growth,1
+358091af,Low Motivation & Policy Decline,1
+44303003,Low Motivation & Policy Growth,1
+140655a0,Low Motivation & Policy Decline,1
+ff8edcc9,Low Motivation & Policy Growth,1
+9bf16323,Motivated & Policy Growth,1
+f846850b,Low Motivation & Policy Decline,1
+779a11fe,Motivated & Policy Growth,1
+ac3e254b,Low Motivation & Policy Decline,1
+f96847e4,Motivated & Policy Growth,1
+e6571109,Low Motivation & Policy Growth,1
+041aede5,Motivated & Policy Growth,1
+e6ecff55,Low Motivation & Policy Decline,1
+8f132aa4,Motivated & Policy Growth,1
+04cd94ce,Low Motivation & Policy Decline,1
+ca469b41,Motivated & Policy Decline,1
+9ca2a7ff,Motivated & Policy Growth,1
+0330163d,Motivated & Policy Growth,1
+8813423f,Low Motivation & Policy Decline,1
+0879757d,Motivated & Policy Growth,1
+27be2ac1,Motivated & Policy Growth,1
+0d045ee9,Low Motivation & Policy Decline,1
+6a0d02ea,Low Motivation & Policy Decline,1
+cdb79d6f,Low Motivation & Policy Decline,1
+98da75b8,Motivated & Policy Growth,1
+d39eadba,Low Motivation & Policy Decline,1
+f2c082c3,Low Motivation & Policy Decline,1
+b0bc7872,Motivated & Policy Growth,1
+32cc5ccc,Motivated & Policy Decline,1
+7.02E+05,Motivated & Policy Growth,1
+3363b8d9,Motivated & Policy Growth,1
+70835cbd,Low Motivation & Policy Decline,1
+d2b2da59,Motivated & Policy Growth,1
+580d98ee,Motivated & Policy Growth,1
+a7c9fb50,Motivated & Policy Growth,1
+3fae68fe,Motivated & Policy Growth,1
+b2ee1ee7,Motivated & Policy Growth,1
+7fe3706e,Motivated & Policy Growth,1
+77831d24,Motivated & Policy Decline,1
+c7ee131e,Motivated & Policy Growth,1
+38aaffd5,Motivated & Policy Growth,1
+e73014ba,Motivated & Policy Growth,1
+dfc23d44,Motivated & Policy Decline,1
+b1730def,Low Motivation & Policy Decline,1
+9.63E+09,Motivated & Policy Decline,1
+c2893bda,Low Motivation & Policy Decline,1
+f79f587e,Motivated & Policy Growth,1
+d1498ea3,Low Motivation & Policy Decline,1
+a30df4f5,Motivated & Policy Growth,1
+396d8793,Low Motivation & Policy Decline,1
+068c4b6c,Low Motivation & Policy Decline,1
+79ba72f9,Motivated & Policy Growth,1
+acdb0c76,Low Motivation & Policy Decline,1
+71607bc6,Low Motivation & Policy Growth,1
+1630a967,Low Motivation & Policy Decline,1
+fb4e1419,Low Motivation & Policy Decline,1
+c488b483,Low Motivation & Policy Growth,1
+eed4e1bc,Low Motivation & Policy Decline,1
+13e6e2f9,Motivated & Policy Growth,1
+59f2fa1d,Low Motivation & Policy Growth,1
+7e01dea3,Motivated & Policy Growth,1
+6aae1684,Low Motivation & Policy Decline,1
+ad927b09,Low Motivation & Policy Decline,1
+c3e9a960,Low Motivation & Policy Decline,1
+38203463,Motivated & Policy Growth,1
+6f2f687a,Low Motivation & Policy Decline,1
+adbe5d94,Low Motivation & Policy Growth,1
+6e725ba0,Motivated & Policy Growth,1
+1bafe9a2,Low Motivation & Policy Decline,1
+bc913ebe,Low Motivation & Policy Decline,1
+5fe00842,Low Motivation & Policy Decline,1
+ab5e22f2,Low Motivation & Policy Decline,1
+1d06e191,Low Motivation & Policy Decline,1
+0aaac9a7,Low Motivation & Policy Decline,1
+1ab4c789,Motivated & Policy Growth,1
+cbb419aa,Low Motivation & Policy Growth,1
+39f484d0,Motivated & Policy Growth,1
+3d15739c,Low Motivation & Policy Decline,1
+a7b58a6a,Low Motivation & Policy Decline,1
+bbb7ba71,Motivated & Policy Growth,1
+470d81d4,Motivated & Policy Growth,1
+f42b6c53,Motivated & Policy Growth,1
+54ca74d2,Motivated & Policy Growth,1
+aeec664e,Motivated & Policy Growth,1
+d036ff5d,Low Motivation & Policy Decline,1
+10944892,Low Motivation & Policy Decline,1
+11ddf2a7,Motivated & Policy Growth,1
+92dd19af,Low Motivation & Policy Decline,1
+3417ed0a,Low Motivation & Policy Growth,1
+a14ecd6f,Low Motivation & Policy Decline,1
+bdb489c0,Low Motivation & Policy Growth,1
+e906fb9f,Low Motivation & Policy Decline,1
+d619d6ac,Low Motivation & Policy Decline,1
+e17cec52,Low Motivation & Policy Decline,1
+f9e8393e,Motivated & Policy Growth,1
+2d115488,Motivated & Policy Growth,1
+750fb3a2,Motivated & Policy Growth,1
+0fd5804f,Low Motivation & Policy Decline,1
+3e53c636,Motivated & Policy Growth,1
+51321fa2,Motivated & Policy Growth,1
+786ddd95,Low Motivation & Policy Decline,1
+393f3bf6,Low Motivation & Policy Decline,1
+3515f968,Motivated & Policy Growth,1
+844e21a0,Motivated & Policy Growth,1
+087ef587,Motivated & Policy Growth,1
+26142387,Low Motivation & Policy Decline,1
+8e2e35c7,Low Motivation & Policy Growth,1
+6289cef1,Motivated & Policy Decline,1
+e07699d8,Low Motivation & Policy Decline,1
+8dab5c95,Motivated & Policy Growth,1
+ae14c4be,Motivated & Policy Growth,1
+45910031,Low Motivation & Policy Decline,1
+7.99E+12,Motivated & Policy Growth,1
+fbc89964,Motivated & Policy Decline,1
+b1e0ad90,Motivated & Policy Growth,1
+ef328cab,Motivated & Policy Growth,1
+a9b4595f,Low Motivation & Policy Decline,1
+deb74689,Low Motivation & Policy Growth,1
+b6418dc2,Motivated & Policy Growth,1
+4eb0e534,Low Motivation & Policy Decline,1
+d7f98932,Low Motivation & Policy Decline,1
+95185021,Motivated & Policy Decline,1
+862e2590,Low Motivation & Policy Growth,1
+1c413762,Low Motivation & Policy Decline,1
+deae5754,Motivated & Policy Growth,1
+3383fd5c,Low Motivation & Policy Decline,1
+f5fbcc73,Motivated & Policy Growth,1
+1ee2b2ae,Motivated & Policy Growth,1
+c7627e42,Low Motivation & Policy Decline,1
+fb219038,Motivated & Policy Growth,1
+d67db6dc,Low Motivation & Policy Decline,1
+1e3e90f3,Low Motivation & Policy Decline,1
+ea99911b,Motivated & Policy Growth,1
+ec18a7a2,Motivated & Policy Decline,1
+c9978400,Low Motivation & Policy Decline,1
+deed0e45,Motivated & Policy Growth,1
+8ac71189,Motivated & Policy Decline,1
+4d543192,Motivated & Policy Growth,1
+b9a1ddb2,Low Motivation & Policy Decline,1
+8afae4e5,Motivated & Policy Growth,1
+ea08d6a6,Low Motivation & Policy Decline,1
+0e4280de,Low Motivation & Policy Decline,1
+09b8e785,Motivated & Policy Growth,1
+68198d93,Motivated & Policy Growth,1
+d5479db4,Low Motivation & Policy Decline,1
+62154055,Low Motivation & Policy Decline,1
+97045eb6,Motivated & Policy Growth,1
+956005ab,Low Motivation & Policy Decline,1
+417f5867,Motivated & Policy Growth,1
+dbb83747,Motivated & Policy Growth,1
+c4c83ee6,Low Motivation & Policy Decline,1
+ccd937b8,Low Motivation & Policy Decline,1
+b02dee9c,Motivated & Policy Growth,1
+2cc86dc1,Low Motivation & Policy Decline,1
+b09dd216,Motivated & Policy Growth,1
+3af761d0,Low Motivation & Policy Decline,1
+92647c39,Low Motivation & Policy Decline,1
+6717a1a3,Motivated & Policy Growth,1
+cc3dfb6a,Low Motivation & Policy Decline,1
+d87ad660,Low Motivation & Policy Decline,1
+0db1f74b,Low Motivation & Policy Growth,1
+9d0bde50,Low Motivation & Policy Decline,1
+aa23f1f0,Low Motivation & Policy Decline,1
+b5db7693,Low Motivation & Policy Decline,1
+8265855f,Low Motivation & Policy Growth,1
+926a4de6,Motivated & Policy Growth,1
+b919eeca,Low Motivation & Policy Growth,1
+599c361f,Motivated & Policy Growth,1
+a982882a,Motivated & Policy Growth,1
+5922d261,Motivated & Policy Growth,1
+ad540940,Low Motivation & Policy Decline,1
+d189701f,Motivated & Policy Growth,1
+a2dd881e,Low Motivation & Policy Decline,1
+838ca2b3,Low Motivation & Policy Decline,1
+d8e13589,Low Motivation & Policy Decline,1
+ae4aa5cf,Motivated & Policy Growth,1
+7167c72f,Motivated & Policy Growth,1
+250d39cb,Low Motivation & Policy Decline,1
+6c9197e8,Low Motivation & Policy Decline,1
+c82ac81c,Low Motivation & Policy Decline,1
+974da954,Low Motivation & Policy Growth,1
+36a0b154,Motivated & Policy Growth,1
+1b2014ec,Motivated & Policy Growth,1
+79070d83,Low Motivation & Policy Decline,1
+a46b6249,Motivated & Policy Growth,1
+7d88bca8,Low Motivation & Policy Decline,1
+ff81f975,Motivated & Policy Growth,1
+811ab465,Motivated & Policy Growth,1
+ee147cca,Low Motivation & Policy Decline,1
+c823ce77,Low Motivation & Policy Decline,1
+3068a03e,Motivated & Policy Growth,1
+9c368468,Motivated & Policy Growth,1
+8209b2a0,Motivated & Policy Decline,1
+f3eb210e,Low Motivation & Policy Decline,1
+c80fe406,Low Motivation & Policy Growth,1
+726d4dfd,Low Motivation & Policy Decline,1
+68deb531,Motivated & Policy Growth,1
+0e0c2212,Motivated & Policy Growth,1
+6e69e08b,Low Motivation & Policy Decline,1
+fd62b30c,Motivated & Policy Growth,1
+0f111c9b,Low Motivation & Policy Decline,1
+ea950cc0,Motivated & Policy Growth,1
+e9bfb25c,Low Motivation & Policy Growth,1
+dc8c2cc3,Motivated & Policy Growth,1
+1c54ce8b,Low Motivation & Policy Growth,1
+a9431e50,Motivated & Policy Decline,1
+7a1787dc,Low Motivation & Policy Decline,1
+27f35403,Low Motivation & Policy Decline,1
+2883d02e,Motivated & Policy Growth,1
+d3e24bb5,Low Motivation & Policy Decline,1
+eb601c15,Motivated & Policy Growth,1
+decee04f,Low Motivation & Policy Decline,1
+3273914b,Low Motivation & Policy Decline,1
+bbf9f5fe,Motivated & Policy Growth,1
+4609bc37,Low Motivation & Policy Decline,1
+3d80c955,Motivated & Policy Growth,1
+d4e99858,Motivated & Policy Growth,1
+e1fdaeaa,Motivated & Policy Growth,1
+89633f45,Low Motivation & Policy Decline,1
+b4162b66,Low Motivation & Policy Decline,1
+ff79f140,Motivated & Policy Growth,1
+d9b5233a,Low Motivation & Policy Decline,1
+39fdf86e,Low Motivation & Policy Growth,1
+04f897f5,Motivated & Policy Growth,1
+0177ed5f,Low Motivation & Policy Decline,1
+47947b4c,Motivated & Policy Decline,1
+3f4c6d56,Low Motivation & Policy Decline,1
+b5aec5c3,Motivated & Policy Growth,1
+a045b770,Low Motivation & Policy Decline,1
+d86153e3,Motivated & Policy Growth,1
+0c0e65a4,Motivated & Policy Growth,1
+dd4a0d2d,Low Motivation & Policy Decline,1
+e7e3a8b0,Low Motivation & Policy Decline,1
+1e3e08fc,Motivated & Policy Growth,1
+96277898,Motivated & Policy Growth,1
+6c207d2a,Low Motivation & Policy Decline,1
+8a5c31db,Low Motivation & Policy Growth,1
+86c9436f,Low Motivation & Policy Decline,1
+7c23e75e,Low Motivation & Policy Decline,1
+7a480f7f,Motivated & Policy Decline,1
+afb9ab2c,Motivated & Policy Growth,1
+fbfad9de,Low Motivation & Policy Decline,1
+fabe7d5c,Motivated & Policy Decline,1
+a58bf05b,Low Motivation & Policy Decline,1
+dbe28988,Motivated & Policy Growth,1
+ef5a212d,Motivated & Policy Growth,1
+b7fc5d61,Low Motivation & Policy Growth,1
+998a39aa,Low Motivation & Policy Growth,1
+9e2e849a,Low Motivation & Policy Growth,1
+54e55461,Low Motivation & Policy Decline,1
+b1e5f770,Motivated & Policy Growth,1
+207ecfc9,Motivated & Policy Growth,1
+f9bd5b6e,Low Motivation & Policy Decline,1
+8ba38ed9,Motivated & Policy Growth,1
+62379003,Low Motivation & Policy Decline,1
+744b2429,Low Motivation & Policy Growth,1
+cde44f96,Motivated & Policy Growth,1
+9caa7fdc,Low Motivation & Policy Decline,1
+0522b331,Low Motivation & Policy Growth,1
+344e0483,Motivated & Policy Growth,1
+224be699,Motivated & Policy Growth,1
+269c4e60,Low Motivation & Policy Decline,1
+335b4b20,Low Motivation & Policy Decline,1
+357c3868,Motivated & Policy Growth,1
+a6c30232,Low Motivation & Policy Decline,1
+293124a7,Low Motivation & Policy Decline,1
+5e72ea09,Motivated & Policy Growth,1
+660cb327,Low Motivation & Policy Decline,1
+a2d9fb74,Low Motivation & Policy Decline,1
+b60f9ab3,Low Motivation & Policy Growth,1
+817339ac,Low Motivation & Policy Decline,1
+2f8f3b33,Motivated & Policy Growth,1
+88feb000,Motivated & Policy Growth,1
+55616a7d,Low Motivation & Policy Decline,1
+b2d5499f,Motivated & Policy Growth,1
+0a318094,Low Motivation & Policy Decline,1
+e62adc1e,Motivated & Policy Growth,1
+572c0422,Motivated & Policy Growth,1
+3c42efd4,Low Motivation & Policy Growth,1
+97d645e0,Motivated & Policy Growth,1
+a4eb52e8,Low Motivation & Policy Growth,1
+9e301c4f,Motivated & Policy Decline,1
+c2149c07,Low Motivation & Policy Decline,1
+94427825,Low Motivation & Policy Decline,1
+4d953b7c,Low Motivation & Policy Decline,1
+e548d139,Low Motivation & Policy Growth,1
+ad55bf27,Motivated & Policy Growth,1
+0bae2f2d,Low Motivation & Policy Decline,1
+5a4c13f1,Motivated & Policy Decline,1
+c659c596,Low Motivation & Policy Decline,1
+2504b4ba,Low Motivation & Policy Decline,1
+b07c503c,Motivated & Policy Growth,1
+68c5d5c4,Motivated & Policy Growth,1
+3299ea4c,Low Motivation & Policy Decline,1
+0f4c38b4,Low Motivation & Policy Decline,1
+1e587e04,Motivated & Policy Growth,1
+ff542590,Motivated & Policy Decline,1
+166ddb3a,Low Motivation & Policy Decline,1
+6c679551,Motivated & Policy Growth,1
+51dc42f2,Low Motivation & Policy Decline,1
+6321a9ef,Motivated & Policy Growth,1
+03216cb4,Low Motivation & Policy Decline,1
+c84e7e18,Motivated & Policy Growth,1
+87bc8e5a,Motivated & Policy Growth,1
+44b3f07a,Motivated & Policy Growth,1
+0279d0a7,Motivated & Policy Growth,1
+32e1912c,Low Motivation & Policy Decline,1
+93a839c4,Low Motivation & Policy Decline,1
+3cfc52f3,Motivated & Policy Growth,1
+f7779dc8,Motivated & Policy Growth,1
+4fe58569,Motivated & Policy Growth,1
+6832d07e,Low Motivation & Policy Decline,1
+ec6df6c6,Motivated & Policy Growth,1
+9256cb6d,Low Motivation & Policy Decline,1
+e4892740,Motivated & Policy Growth,1
+01b0edf6,Motivated & Policy Growth,1
+f38faa04,Low Motivation & Policy Decline,1
+8f699df7,Low Motivation & Policy Growth,1
+65e7321a,Low Motivation & Policy Growth,1
+53a3110b,Low Motivation & Policy Decline,1
+1d08e7c3,Motivated & Policy Growth,1
+071a8882,Motivated & Policy Growth,1
+2b0a8ba8,Low Motivation & Policy Decline,1
+246a70a6,Low Motivation & Policy Decline,1
+75703031,Low Motivation & Policy Decline,1
+2ea94d44,Low Motivation & Policy Decline,1
+3219e0f5,Low Motivation & Policy Decline,1
+aff0c4c3,Low Motivation & Policy Decline,1
+328cab7d,Motivated & Policy Decline,1
+bda544ec,Low Motivation & Policy Decline,1
+67e1eaf0,Low Motivation & Policy Decline,1
+0b1be2b8,Low Motivation & Policy Decline,1
+0aacb7a8,Motivated & Policy Growth,1
+328e4201,Low Motivation & Policy Growth,1
+a0ad55fc,Motivated & Policy Decline,1
+f26c7944,Motivated & Policy Growth,1
+41d75955,Motivated & Policy Growth,1
+56edaaf5,Low Motivation & Policy Growth,1
+ddff87dd,Motivated & Policy Decline,1
+70f300fa,Motivated & Policy Growth,1
+4e65e45e,Low Motivation & Policy Growth,1
+cc2832ba,Low Motivation & Policy Decline,1
+b09baba0,Low Motivation & Policy Decline,1
+26f591b2,Motivated & Policy Growth,1
+695935d8,Low Motivation & Policy Decline,1
+a9483c0c,Low Motivation & Policy Decline,1
+12e43255,Low Motivation & Policy Growth,1
+6f6da4c8,Motivated & Policy Growth,1
+35c456a1,Motivated & Policy Growth,1
+7d66cad7,Motivated & Policy Decline,1
+f8c957b0,Low Motivation & Policy Decline,1
+ffca3177,Motivated & Policy Growth,1
+890e8652,Motivated & Policy Decline,1
+ec7c6c8a,Motivated & Policy Decline,1
+f2fcfe25,Motivated & Policy Growth,1
+ad35e92d,Motivated & Policy Growth,1
+012a3553,Motivated & Policy Growth,1
+b1ff85c5,Low Motivation & Policy Decline,1
+01c0860d,Motivated & Policy Growth,1
+2ddf7f26,Motivated & Policy Decline,1
+d4691742,Motivated & Policy Decline,1
+b95013f1,Motivated & Policy Growth,1
+37b41a6c,Motivated & Policy Growth,1
+b03b2550,Low Motivation & Policy Decline,1
+23b47704,Low Motivation & Policy Decline,1
+026ffb43,Low Motivation & Policy Decline,1
+428ca558,Motivated & Policy Decline,1
+82b8665c,Low Motivation & Policy Decline,1
+88c79618,Motivated & Policy Growth,1
+b6e384ce,Low Motivation & Policy Decline,1
+a0e4b237,Motivated & Policy Growth,1
+3a47f9bd,Motivated & Policy Growth,1
+0e34a568,Low Motivation & Policy Decline,1
+1ff8e6d6,Motivated & Policy Growth,1
+bf9913dd,Low Motivation & Policy Decline,1
+f9450be9,Low Motivation & Policy Decline,1
+cd1f2573,Motivated & Policy Growth,1
+f201803d,Motivated & Policy Growth,1
+31e59316,Low Motivation & Policy Decline,1
+e728588a,Low Motivation & Policy Decline,1
+84ef9ce3,Motivated & Policy Growth,1
+713a8305,Low Motivation & Policy Decline,1
+4eff9854,Low Motivation & Policy Decline,1
+f02a4b71,Motivated & Policy Decline,1
+cc266f37,Motivated & Policy Growth,1
+52e1374a,Low Motivation & Policy Decline,1
+0acddc02,Motivated & Policy Growth,1
+c2d274aa,Motivated & Policy Growth,1
+2d168116,Low Motivation & Policy Decline,1
+52de1f9c,Low Motivation & Policy Growth,1
+9dc48356,Motivated & Policy Decline,1
+400e8f57,Low Motivation & Policy Decline,1
+c363b1ad,Low Motivation & Policy Decline,1
+47c6c65c,Low Motivation & Policy Decline,1
+11c7cd6c,Low Motivation & Policy Decline,1
+bf5d0f57,Motivated & Policy Decline,1
+6452bd08,Low Motivation & Policy Decline,1
+5e7c70cd,Low Motivation & Policy Decline,1
+a74c182c,Low Motivation & Policy Decline,1
+8.09E+28,Low Motivation & Policy Growth,1
+3c08603a,Motivated & Policy Growth,1
+ca47ecd8,Low Motivation & Policy Decline,1
+9ac134bb,Motivated & Policy Growth,1
+d3ec8dac,Low Motivation & Policy Decline,1
+60b8427e,Low Motivation & Policy Growth,1
+cf65cb6d,Low Motivation & Policy Decline,1
+be721f54,Motivated & Policy Decline,1
+95ab0bc5,Motivated & Policy Decline,1
+b4caec29,Motivated & Policy Growth,1
+48669912,Motivated & Policy Growth,1
+3ce8e9ed,Motivated & Policy Growth,1
+26c3dddd,Low Motivation & Policy Decline,1
+51b5ab9b,Low Motivation & Policy Decline,1
+62a78c32,Motivated & Policy Decline,1
+4936a505,Motivated & Policy Growth,1
+2522b4fe,Motivated & Policy Growth,1
+84a7eaf5,Low Motivation & Policy Decline,1
+08dd9dac,Motivated & Policy Growth,1
+5b80ded5,Motivated & Policy Decline,1
+bc3a6272,Low Motivation & Policy Decline,1
+66df6d5a,Low Motivation & Policy Decline,1
+b8796e2e,Low Motivation & Policy Growth,1
+71a00b5e,Low Motivation & Policy Decline,1
+08d93405,Motivated & Policy Growth,1
+ef8d6878,Motivated & Policy Growth,1
+8b1eb4a9,Motivated & Policy Growth,1
+e8401018,Low Motivation & Policy Decline,1
+8f18449c,Motivated & Policy Growth,1
+b7e290eb,Low Motivation & Policy Decline,1
+7c6db591,Low Motivation & Policy Growth,1
+93779b01,Motivated & Policy Growth,1
+a9629fa4,Low Motivation & Policy Decline,1
+85994955,Low Motivation & Policy Growth,1
+f9f0169c,Low Motivation & Policy Decline,1
+62a909fb,Motivated & Policy Growth,1
+54240662,Motivated & Policy Growth,1
+e683ea04,Low Motivation & Policy Decline,1
+242ff816,Motivated & Policy Growth,1
+f6364d60,Low Motivation & Policy Decline,1
+1f5135c3,Motivated & Policy Decline,1
+1b99b648,Motivated & Policy Growth,1
+2b84dfe0,Low Motivation & Policy Decline,1
+b5ce8afc,Motivated & Policy Growth,1
+641f2147,Motivated & Policy Growth,1
+53826690,Motivated & Policy Growth,1
+7a03b549,Motivated & Policy Growth,1
+5550ec46,Motivated & Policy Decline,1
+dcc03438,Motivated & Policy Growth,1
+9901c7de,Low Motivation & Policy Decline,1
+7f69270a,Low Motivation & Policy Decline,1
+f7dbb5bd,Low Motivation & Policy Decline,1
+f13ea268,Low Motivation & Policy Decline,1
+4b50ba06,Motivated & Policy Growth,1
+0b51084d,Motivated & Policy Growth,1
+b8241b24,Motivated & Policy Growth,1
+624eb18c,Motivated & Policy Decline,1
+1ec9c089,Motivated & Policy Growth,1
+4a36c4e0,Low Motivation & Policy Decline,1
+0a419b45,Motivated & Policy Growth,1
+1eda1691,Motivated & Policy Growth,1
+01a4ff82,Low Motivation & Policy Decline,1
+046d7894,Low Motivation & Policy Decline,1
+d28046bc,Motivated & Policy Growth,1
+c37c0096,Low Motivation & Policy Decline,1
+5e060b04,Low Motivation & Policy Decline,1
+f53a20ef,Low Motivation & Policy Decline,1
+34e9e182,Motivated & Policy Growth,1
+57797bda,Motivated & Policy Growth,1
+293115df,Motivated & Policy Growth,1
+9379e3f2,Low Motivation & Policy Decline,1
+0b5ebeaa,Low Motivation & Policy Growth,1
+9caee735,Motivated & Policy Growth,1
+a35c7842,Motivated & Policy Growth,1
+5da2a068,Low Motivation & Policy Decline,1
+790d6039,Low Motivation & Policy Decline,1
+3fa56b2f,Motivated & Policy Growth,1
+c369446c,Low Motivation & Policy Decline,1
+bb428b4d,Motivated & Policy Growth,1
+00d5bda3,Low Motivation & Policy Decline,1
+ede66c35,Low Motivation & Policy Decline,1
+9716c60e,Low Motivation & Policy Decline,1
+6475a0ed,Motivated & Policy Growth,1
+2c95542c,Low Motivation & Policy Decline,1
+f21d625b,Motivated & Policy Growth,1
+12d58408,Motivated & Policy Growth,1
+2296c882,Motivated & Policy Growth,1
+ce838c4f,Low Motivation & Policy Decline,1
+c2c07b05,Motivated & Policy Growth,1
+a09aba1d,Low Motivation & Policy Decline,1
+aa741268,Motivated & Policy Growth,1
+18f0e6f8,Low Motivation & Policy Decline,1
+b36727bc,Low Motivation & Policy Decline,1
+27565665,Motivated & Policy Decline,1
+6c9d3c40,Low Motivation & Policy Decline,1
+f84c1547,Motivated & Policy Growth,1
+9db596eb,Low Motivation & Policy Growth,1
+ee14f4a6,Motivated & Policy Growth,1
+f312b5da,Low Motivation & Policy Decline,1
+1a7f1c16,Motivated & Policy Growth,1
+5fe90f9b,Motivated & Policy Growth,1
+5fb6d997,Low Motivation & Policy Growth,1
+c2370af2,Low Motivation & Policy Growth,1
+157cd419,Motivated & Policy Growth,1
+a1f12a6c,Motivated & Policy Growth,1
+d360368b,Low Motivation & Policy Decline,1
+3a296b6c,Low Motivation & Policy Decline,1
+1a1279f8,Low Motivation & Policy Decline,1
+dbfac7a1,Motivated & Policy Growth,1
+ffe6c9e9,Low Motivation & Policy Decline,1
+d55b8d32,Motivated & Policy Growth,1
+d4e550ef,Motivated & Policy Growth,1
+a905dc28,Low Motivation & Policy Decline,1
+fffb525d,Low Motivation & Policy Decline,1
+b119ccc5,Low Motivation & Policy Growth,1
+3e8c2a01,Motivated & Policy Growth,1
+af45bd51,Low Motivation & Policy Growth,1
+012f0e15,Low Motivation & Policy Decline,1
+c37f2ebf,Low Motivation & Policy Decline,1
+06acbf85,Low Motivation & Policy Decline,1
+1e05b8c4,Low Motivation & Policy Decline,1
+0bb2468d,Low Motivation & Policy Decline,1
+54c07c11,Motivated & Policy Growth,1
+5ccac519,Motivated & Policy Growth,1
+6f975ef6,Motivated & Policy Growth,1
+d05744f2,Low Motivation & Policy Decline,1
+3c046694,Low Motivation & Policy Growth,1
+f90aaa5d,Motivated & Policy Growth,1
+ef67e31b,Low Motivation & Policy Decline,1
+360ed942,Motivated & Policy Growth,1
+64de3268,Low Motivation & Policy Decline,1
+3173b081,Low Motivation & Policy Decline,1
+01c63d8e,Motivated & Policy Growth,1
+fcbbbef0,Low Motivation & Policy Growth,1
+ce0fda0a,Low Motivation & Policy Decline,1
+026b60ee,Low Motivation & Policy Decline,1
+cd20229a,Low Motivation & Policy Decline,1
+f7312aa8,Low Motivation & Policy Decline,1
+c62748b6,Motivated & Policy Growth,1
+7973fc92,Low Motivation & Policy Decline,1
+c54b46f0,Motivated & Policy Growth,1
+c8c41b33,Motivated & Policy Growth,1
+64e42473,Motivated & Policy Growth,1
+85857de6,Low Motivation & Policy Decline,1
+a40e05c1,Motivated & Policy Growth,1
+a024a368,Motivated & Policy Growth,1
+e63b3cba,Low Motivation & Policy Decline,1
+8b5cd67d,Motivated & Policy Growth,1
+380bd7cc,Motivated & Policy Growth,1
+52d3b4c8,Low Motivation & Policy Growth,1
+877de375,Low Motivation & Policy Decline,1
+da6dbb08,Motivated & Policy Decline,1
+232f671f,Low Motivation & Policy Decline,1
+11edb733,Low Motivation & Policy Decline,1
+a500afe1,Motivated & Policy Growth,1
+79c98d49,Motivated & Policy Growth,1
+08a278cd,Motivated & Policy Growth,1
+b5338672,Low Motivation & Policy Decline,1
+20f326a5,Low Motivation & Policy Growth,1
+95489a00,Motivated & Policy Growth,1
+d3b44e44,Low Motivation & Policy Decline,1
+0af61868,Motivated & Policy Growth,1
+29ab6f3f,Low Motivation & Policy Decline,1
+e97ec0e0,Motivated & Policy Growth,1
+6fa65e5e,Motivated & Policy Growth,1
+a98bb7aa,Low Motivation & Policy Growth,1
+c21ae5a1,Motivated & Policy Growth,1
+c1843069,Motivated & Policy Growth,1
+1cdac474,Motivated & Policy Decline,1
+765fff3b,Motivated & Policy Growth,1
+af1c7a87,Low Motivation & Policy Decline,1
+61b67baf,Low Motivation & Policy Growth,1
+071c1880,Motivated & Policy Growth,1
+06dfa6a3,Low Motivation & Policy Decline,1
+a0cc389a,Motivated & Policy Growth,1
+64bcc561,Motivated & Policy Decline,1
+f37b16d4,Motivated & Policy Growth,1
+35998753,Low Motivation & Policy Decline,1
+19e0d9d3,Motivated & Policy Growth,1
+11029f56,Low Motivation & Policy Decline,1
+3eb7edb4,Motivated & Policy Growth,1
+9e32a219,Low Motivation & Policy Growth,1
+b0c31563,Motivated & Policy Decline,1
+fd4ffb55,Motivated & Policy Growth,1
+311a7df5,Low Motivation & Policy Growth,1
+05339eaf,Motivated & Policy Growth,1
+9108e3de,Low Motivation & Policy Decline,1
+2c435787,Low Motivation & Policy Decline,1
+e523a957,Motivated & Policy Growth,1
+e56767cf,Low Motivation & Policy Growth,1
+868cd194,Motivated & Policy Growth,1
+10dabaca,Low Motivation & Policy Decline,1
+5f13e12d,Low Motivation & Policy Decline,1
+6e578e1b,Low Motivation & Policy Decline,1
+69e592f6,Low Motivation & Policy Decline,1
+98e4577e,Low Motivation & Policy Decline,1
+0e4db07d,Low Motivation & Policy Decline,1
+7b67b89d,Motivated & Policy Growth,1
+9ff7cf01,Low Motivation & Policy Growth,1
+23a5ee4a,Motivated & Policy Growth,1
+f9235b11,Motivated & Policy Growth,1
+3b689e3b,Low Motivation & Policy Decline,1
+379c10a1,Low Motivation & Policy Decline,1
+0fc88310,Motivated & Policy Growth,1
+d125cd5b,Low Motivation & Policy Decline,1
+1892831c,Motivated & Policy Growth,1
+c8377e37,Motivated & Policy Growth,1
+f713bcd4,Motivated & Policy Decline,1
+1844e2c4,Motivated & Policy Growth,1
+ecd7ba0e,Low Motivation & Policy Decline,1
+0f4994af,Motivated & Policy Growth,1
+df2b837a,Low Motivation & Policy Decline,1
+ac376335,Motivated & Policy Growth,1
+01cf7b40,Low Motivation & Policy Decline,1
+2e3d2e76,Motivated & Policy Growth,1
+ee9cdd1a,Motivated & Policy Growth,1
+c7f5a4a2,Low Motivation & Policy Decline,1
+1ac57404,Low Motivation & Policy Decline,1
+448bb5ec,Motivated & Policy Growth,1
+5f5eecd9,Low Motivation & Policy Growth,1
+0e4770a7,Low Motivation & Policy Decline,1
+c09a315b,Low Motivation & Policy Decline,1
+4a8112fe,Motivated & Policy Growth,1
+885be06c,Low Motivation & Policy Decline,1
+1bdc27c3,Low Motivation & Policy Decline,1
+0a37f9af,Low Motivation & Policy Decline,1
+d855185c,Low Motivation & Policy Decline,1
+11ee7678,Motivated & Policy Growth,1
+655dab4a,Low Motivation & Policy Decline,1
+32dca4d5,Low Motivation & Policy Growth,1
+7833e777,Motivated & Policy Decline,1
+5c0601a2,Motivated & Policy Growth,1
+bc0e04ce,Motivated & Policy Growth,1
+b009bd86,Low Motivation & Policy Decline,1
+c766025d,Low Motivation & Policy Growth,1
+507d2705,Motivated & Policy Growth,1
+bee6f560,Low Motivation & Policy Decline,1
+49a9d7fa,Low Motivation & Policy Growth,1
+7c31eb96,Low Motivation & Policy Growth,1
+e9a97fdc,Low Motivation & Policy Decline,1
+17b72bab,Motivated & Policy Growth,1
+ac9f7073,Motivated & Policy Decline,1
+d181f3b3,Low Motivation & Policy Decline,1
+9828b73c,Low Motivation & Policy Decline,1
+87c0771b,Low Motivation & Policy Growth,1
+1c95f015,Motivated & Policy Growth,1
+f7136abb,Low Motivation & Policy Decline,1
+5e002d6b,Motivated & Policy Growth,1
+52acfbac,Motivated & Policy Growth,1
+fa5f58d1,Low Motivation & Policy Decline,1
+961e6577,Motivated & Policy Growth,1
+77a8b54a,Low Motivation & Policy Decline,1
+54643ae7,Low Motivation & Policy Growth,1
+19dda843,Motivated & Policy Growth,1
+b33fc6cb,Low Motivation & Policy Decline,1
+3812c4ee,Motivated & Policy Decline,1
+63eff67e,Low Motivation & Policy Decline,1
+f3ba2a6d,Motivated & Policy Decline,1
+3e5ac0ee,Low Motivation & Policy Growth,1
+1b77fbd0,Motivated & Policy Growth,1
+74c002f8,Low Motivation & Policy Growth,1
+cfbc51d8,Low Motivation & Policy Decline,1
+c32ae63f,Motivated & Policy Decline,1
+dc758a61,Low Motivation & Policy Growth,1
+0c22f517,Motivated & Policy Growth,1
+694db98b,Low Motivation & Policy Decline,1
+54768850,Motivated & Policy Growth,1
+739376d2,Motivated & Policy Growth,1
+5444f88c,Low Motivation & Policy Decline,1
+3d00b9ca,Motivated & Policy Decline,1
+a2892004,Motivated & Policy Decline,1
+96471aab,Low Motivation & Policy Decline,1
+90ea32ad,Low Motivation & Policy Growth,1
+20326773,Motivated & Policy Growth,1
+84bc935c,Motivated & Policy Growth,1
+4df767d7,Motivated & Policy Growth,1
+057dd1b3,Low Motivation & Policy Growth,1
+62d089a7,Motivated & Policy Decline,1
+aac1e99d,Low Motivation & Policy Decline,1
+6d1a5987,Motivated & Policy Growth,1
+d21ce4ef,Motivated & Policy Growth,1
+70a5dc07,Motivated & Policy Growth,1
+c58e2412,Low Motivation & Policy Decline,1
+15047db1,Low Motivation & Policy Decline,1
+3a5a4ac6,Low Motivation & Policy Decline,1
+32831c50,Motivated & Policy Decline,1
+df0aaa8d,Motivated & Policy Growth,1
+9536ec88,Motivated & Policy Growth,1
+4aa5bb82,Motivated & Policy Growth,1
+a6859260,Low Motivation & Policy Growth,1
+a635b43b,Motivated & Policy Growth,1
+85f1427f,Motivated & Policy Growth,1
+40b62a16,Motivated & Policy Decline,1
+e8c6770b,Low Motivation & Policy Growth,1
+8450fe9e,Low Motivation & Policy Growth,1
+ba63f82c,Low Motivation & Policy Decline,1
+36aef680,Motivated & Policy Growth,1
+6960de8b,Motivated & Policy Growth,1
+0b1d7054,Motivated & Policy Growth,1
+272f6f80,Low Motivation & Policy Decline,1
+f09df16e,Low Motivation & Policy Decline,1
+e112b2c8,Motivated & Policy Growth,1
+fc632ab1,Low Motivation & Policy Decline,1
+97eace3e,Low Motivation & Policy Growth,1
+2bf63daa,Low Motivation & Policy Decline,1
+3b8142c2,Motivated & Policy Decline,1
+25cd5d60,Low Motivation & Policy Decline,1
+bd98e172,Low Motivation & Policy Growth,1
+dff6c023,Motivated & Policy Growth,1
+8c867ff9,Low Motivation & Policy Growth,1
+05cb3b30,Motivated & Policy Growth,1
+fb5f3b17,Low Motivation & Policy Decline,1
+0a14b2af,Low Motivation & Policy Decline,1
+c1dc776a,Motivated & Policy Growth,1
+79ecb6b7,Low Motivation & Policy Growth,1
+70813884,Motivated & Policy Growth,1
+3c26fc5a,Low Motivation & Policy Decline,1
+9bf2290b,Low Motivation & Policy Decline,1
+816a9c71,Low Motivation & Policy Growth,1
+4.68E+11,Low Motivation & Policy Decline,1
+ca83af7e,Motivated & Policy Growth,1
+86fcfefe,Low Motivation & Policy Decline,1
+b0142ea6,Low Motivation & Policy Growth,1
+953805f0,Motivated & Policy Growth,1
+3c120430,Low Motivation & Policy Decline,1
+6ffd67f0,Motivated & Policy Growth,1
+afad29ed,Low Motivation & Policy Decline,1
+f44128d1,Motivated & Policy Growth,1
+9bcb60ec,Low Motivation & Policy Decline,1
+a26f3975,Motivated & Policy Growth,1
+c9e6afaa,Low Motivation & Policy Decline,1
+27b10a36,Motivated & Policy Decline,1
+cbb757f5,Low Motivation & Policy Decline,1
+2aa84d40,Low Motivation & Policy Decline,1
+196a3da0,Motivated & Policy Growth,1
+4031618e,Low Motivation & Policy Growth,1
+3cf0c354,Motivated & Policy Growth,1
+b564e260,Low Motivation & Policy Decline,1
+78ab067e,Low Motivation & Policy Decline,1
+de83f6f4,Low Motivation & Policy Decline,1
+53f114f3,Low Motivation & Policy Decline,1
+d70de9a7,Low Motivation & Policy Decline,1
+8e04acc1,Low Motivation & Policy Decline,1
+2873d9d1,Low Motivation & Policy Decline,1
+b9c2f37a,Motivated & Policy Growth,1
+b9360919,Motivated & Policy Growth,1
+59f16623,Low Motivation & Policy Decline,1
+c71f9dae,Low Motivation & Policy Decline,1
+3.55E+05,Motivated & Policy Growth,1
+39b8984c,Motivated & Policy Growth,1
+3c53cbc1,Motivated & Policy Growth,1
+55c823e7,Low Motivation & Policy Growth,1
+52421009,Motivated & Policy Growth,1
+0e123beb,Motivated & Policy Growth,1
+bca73883,Low Motivation & Policy Decline,1
+0f6f67b0,Motivated & Policy Growth,1
+601d9d26,Motivated & Policy Growth,1
+ea8670e7,Motivated & Policy Growth,1
+50bb84a3,Low Motivation & Policy Decline,1
+a1d1d855,Motivated & Policy Growth,1
+2db3122b,Low Motivation & Policy Decline,1
+10be4b4c,Motivated & Policy Decline,1
+b4a65fde,Low Motivation & Policy Decline,1
+c54be95a,Motivated & Policy Growth,1
+421aec8b,Low Motivation & Policy Decline,1
+300ddfbc,Motivated & Policy Growth,1
+455ca878,Motivated & Policy Growth,1
+57480056,Low Motivation & Policy Decline,1
+db520a0d,Low Motivation & Policy Decline,1
+90758512,Low Motivation & Policy Growth,1
+5724f683,Low Motivation & Policy Decline,1
+3417b25d,Low Motivation & Policy Decline,1
+d4876e5e,Motivated & Policy Growth,1
+fd35a114,Motivated & Policy Growth,1
+f4315468,Motivated & Policy Growth,1
+6bd21ccf,Motivated & Policy Growth,1
+39efba70,Low Motivation & Policy Growth,1
+6ffcf8e2,Motivated & Policy Decline,1
+a050e91a,Motivated & Policy Growth,1
+e0d06535,Low Motivation & Policy Decline,1
+a495eaf3,Motivated & Policy Growth,1
+1d07a8b2,Low Motivation & Policy Growth,1
+e0d2e878,Low Motivation & Policy Decline,1
+d844716f,Motivated & Policy Growth,1
+8f77f8e4,Motivated & Policy Growth,1
+a199082b,Low Motivation & Policy Growth,1
+9c2e3be7,Motivated & Policy Growth,1
+89cb3dd5,Low Motivation & Policy Growth,1
+003c1999,Motivated & Policy Growth,1
